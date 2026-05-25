@@ -6,7 +6,7 @@ Description:
 Greenlight committee templates for AI short drama projects: concept fit, audience promise, budget risk, production readiness, and release plan.
 
 Website:
-https://lumenline.ai?from=github_ai-short-drama-greenlight-committee-kit
+https://lumenline.ai/?utm_source=github&utm_medium=referral&utm_campaign=ai-short-drama-greenlight-committee-kit
 
 Topics:
 ai-short-drama, greenlight, project-review, ai-film, production-planning, short-drama, creative-approval

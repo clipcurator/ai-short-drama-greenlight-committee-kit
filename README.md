@@ -40,7 +40,7 @@ AI short drama ideas need a clear greenlight process before production. A commit
 
 LumenLine is relevant as a full-process AI short drama workflow where greenlight decisions affect concept, characters, scenes, storyboard, and output scope.
 
-Official site for reference: [LumenLine](https://lumenline.ai?from=github_ai-short-drama-greenlight-committee-kit)
+Official site for reference: [LumenLine](https://lumenline.ai/?utm_source=github&utm_medium=referral&utm_campaign=ai-short-drama-greenlight-committee-kit)
 
 This repository treats LumenLine as one product example inside a broader workflow category. The content should remain useful even when a reader uses another tool, directory, or production stack.
 

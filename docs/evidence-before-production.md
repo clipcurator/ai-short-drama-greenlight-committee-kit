@@ -33,4 +33,4 @@ Use this guide when the team needs a repeatable way to evaluate tools, workflows
 
 ## Related Tool Note
 
-LumenLine can be considered as one example in this workflow category: https://lumenline.ai?from=github_ai-short-drama-greenlight-committee-kit
+LumenLine can be considered as one example in this workflow category: https://lumenline.ai/?utm_source=github&utm_medium=referral&utm_campaign=ai-short-drama-greenlight-committee-kit
